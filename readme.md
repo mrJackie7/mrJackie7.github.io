@@ -11,3 +11,4 @@ Bahasa Pemrograman: HTML-CSS, Bootstrap
 versi:
 
 - V.1.0.0: Proyek ini diinisiasi ke GitHub!
+- V.1.0.1: Change some typos
