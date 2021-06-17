@@ -251,7 +251,7 @@
                 I am not joking, I hate spam messages.
               -->
 
-              <div class="mb-3 d-none">
+              <div class="form-group mb-3 d-none">
                 <input type="hidden" name="form-name" value="messages" />
                 <p class="hidden">
                   <label
@@ -261,7 +261,7 @@
                 </p>
               </div>
 
-              <div class="mb-3">
+              <div class="form-group mb-3">
                 <label for="full-name" class="col-form-label"
                   >Full Name:
                 </label>
@@ -270,18 +270,20 @@
                   name="full-name"
                   id="full-name"
                   class="form-control"
+                  required
                 />
               </div>
-              <div class="mb-3">
+              <div class="form-group mb-3">
                 <label for="email" class="col-form-label">Email: </label>
                 <input
                   type="email"
                   name="email"
                   id="email"
                   class="form-control"
+                  required
                 />
               </div>
-              <div class="mb-3">
+              <div class="form-group mb-3">
                 <label for="message" class="form-label">Phone: </label>
                 <textarea
                   name="message"
@@ -289,18 +291,12 @@
                   id="message"
                   rows="3"
                   class="form-control"
+                  required
                 ></textarea>
               </div>
             </form>
           </div>
           <div class="modal-footer">
-            <button
-              type="button"
-              class="btn btn-secondary"
-              data-bs-dismiss="modal"
-            >
-              Close
-            </button>
             <button type="submit" class="btn btn-primary">Send</button>
           </div>
         </div>
