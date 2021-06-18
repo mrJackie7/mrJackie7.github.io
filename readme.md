@@ -22,4 +22,6 @@ versi:
 
   > Fixing some text-size, margin and padding issues;
 
-  > removing modal form for future fixing;
+  > Changing some links;
+
+  > Removing modal form for future fixing;

@@ -22,7 +22,7 @@ const projects = [
     title: 'Dummy Frontend Bootcamp',
     hashtag: ['#HTML', '#Bootstrap', '#ResponsiveWebsite', '#Bootstrap5.0'],
     description: `In this project, I relearning Bootstrap because there is a new version (5.0) that just came up last week. Most layout I'm created came from Bootstrap itself. It Also mobile responsive, so when in certain window sizes (or in any other devices), the layout adapt itself to its screen device.`,
-    demoLink: 'https://determined-brattain-541c40.netlify.app/',
+    demoLink: 'https://joshuachristianto-dummybootcamp.netlify.app/',
     code: 'https://github.com/mrJackie7/dummy-frontend-bootcamp-website',
   },
   {
@@ -37,7 +37,7 @@ const projects = [
       '#ResponsiveWebsite',
     ],
     description: `In this project, I make an app taht i really want to build since i found <a href='https://openweathermap.org/guide'>this link</a> for making a forecasting, weather app. I get the data from openweatherapi (the link I just mentioned), build it with a very simple-old-fashioned-way HTML/CSS/Javascript combo, fetch the api data in Vanilla Javascript and you got the very simple weather app that working as it purposed to be. The app itself also mobile responsive, so you can check the weather on your phone.`,
-    demoLink: 'https://admiring-goldwasser-413a34.netlify.app/',
+    demoLink: 'https://joshuachristianto-weatherapp.netlify.app/',
     code: 'https://github.com/mrJackie7/weather-app',
   },
   {
