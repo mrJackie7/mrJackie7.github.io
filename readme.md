@@ -16,7 +16,7 @@ versi:
 
 - V.1.0.1:
 
-  > Change some typos
+  > Change some typos;
 
 - V.1.0.2:
 
@@ -25,3 +25,7 @@ versi:
   > Changing some links;
 
   > Removing modal form for future fixing;
+
+- V.1.0.3:
+
+  > Changing psf file with an updated one;
