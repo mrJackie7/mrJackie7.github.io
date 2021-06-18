@@ -99,7 +99,7 @@ function searchHashtag(hashtag) {
   searchResult.forEach((project) => {
     let hashtagHTML = hashtagToHTML(project)
     data += `
-    <div class='mt-4 px-2 rounded shadow'>
+    <div class='mt-4 rounded shadow'>
       <div class="card mb-3" style="max-width: 100%;">
         <div class="row g-0">
           <div class="col-md-4 py-5">

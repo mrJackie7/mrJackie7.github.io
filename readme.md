@@ -10,5 +10,16 @@ Bahasa Pemrograman: HTML-CSS, Bootstrap
 
 versi:
 
-- V.1.0.0: Proyek ini diinisiasi ke GitHub!
-- V.1.0.1: Change some typos
+- V.1.0.0:
+
+  > Proyek ini diinisiasi ke GitHub!
+
+- V.1.0.1:
+
+  > Change some typos
+
+- V.1.0.2:
+
+  > Fixing some text-size, color, margin and padding issues;
+
+  > removing modal form for future fixing;
