@@ -20,6 +20,6 @@ versi:
 
 - V.1.0.2:
 
-  > Fixing some text-size, color, margin and padding issues;
+  > Fixing some text-size, margin and padding issues;
 
   > removing modal form for future fixing;
