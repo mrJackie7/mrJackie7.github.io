@@ -72,8 +72,8 @@ function showProject(projects) {
                 ${hashtagHTML}
               </div>
               <div class="m-3">
-                <a href='${project.demoLink}' target="_blank" rel="nofollow"><button class="btn btn-primary">Demo</button></a>
-                <a href='${project.code}' target="_blank" rel="nofollow"><button class="btn btn-light border-primary text-primary">Code</button></a>
+                <a href='${project.demoLink}' target="_blank" rel="nofollow"><button class="btn btn-warning">Demo</button></a>
+                <a href='${project.code}' target="_blank" rel="nofollow"><button class="btn btn-light border-warning text-warning">Code</button></a>
               </div>
             </div>
           </div>
@@ -113,8 +113,8 @@ function searchHashtag(hashtag) {
                 ${hashtagHTML}
               </div>
               <div class="m-3">
-                <a href='${project.demoLink}' target="_blank" rel="nofollow"><button class="btn btn-primary">Demo</button></a>
-                <a href='${project.code}' target="_blank" rel="nofollow"><button class="btn btn-light border-primary">Code</button></a>
+                <a href='${project.demoLink}' target="_blank" rel="nofollow"><button class="btn btn-warning">Demo</button></a>
+                <a href='${project.code}' target="_blank" rel="nofollow"><button class="btn btn-light border-warning text-warning">Code</button></a>
               </div>
             </div>
           </div>
